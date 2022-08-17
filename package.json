@@ -1,0 +1,23 @@
+{
+  "name": "action-create-release",
+  "version": "1.0.0",
+  "description": "Github Action to create a release based on a tag detected",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybervoid/action-create-release.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybervoid/action-create-release/issues"
+  },
+  "homepage": "https://github.com/cybervoid/action-create-release#readme",
+  "dependencies": {
+    "octokit": "^2.0.7"
+  }
+}
